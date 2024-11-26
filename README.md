@@ -1,5 +1,5 @@
 # Smart India Hackathon Workshop
-# Date:
+# Date:26.11.2024
 ## Register Number: 24900239
 ## Name:J JANSI RANI A A
 ## Problem Title
@@ -49,7 +49,8 @@ Surveys to understand alumni needs and improve the association.
 
 
 ## Use Cases
-![A4 - 1 (2)](https://github.com/user-attachments/assets/032191a7-4ebc-4475-ae29-69e91c855924)
+![A4 - 1 (1)](https://github.com/user-attachments/assets/66af9f77-12d4-41da-bc28-46308304d574)
+
 
 
 ## Technology Stack
