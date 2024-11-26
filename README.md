@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
 # Date:26.11.2024
 ## Register Number: 24900239
-## Name:J JANSI RANI A A
+## Name:JANSI RANI A A
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
