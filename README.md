@@ -53,12 +53,12 @@ Surveys to understand alumni needs and improve the association.
 
 
 ## Technology Stack
-React
-Express.js
-Node.js
-Mango db
+React<br>
+Express.js<br>
+Node.js<br>
+Mango db<br>
 
 ## Dependencies
-Frontend-20 days
-Backend-10 days
-Budget- rs.30,000
+Frontend-20 days<br>
+Backend-10 days<br>
+Budget- rs.30,000<br>
